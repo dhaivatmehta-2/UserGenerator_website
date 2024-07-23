@@ -5,3 +5,5 @@ A website which can generate random user details
 
 •These details include - Name, Gender, Email: , Mobile Num:, Location: , username: , password: 
 A picture is of this random person is also generated
+
+• API link - https://randomuser.me/api/
